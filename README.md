@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nathan!</h1>
-- I'm a certified Cybersecurity professional
-- Springboard Cybersecurity Career Track Bootcamp Alumni
+- I'm a certified Cybersecurity professional<br>
+- Springboard Cybersecurity Career Track Bootcamp Alumni <br>
 - San Jose State University Alumni
 <br>
 
