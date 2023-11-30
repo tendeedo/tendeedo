@@ -3,6 +3,7 @@
 - Springboard Cybersecurity Career Track Bootcamp Alumni <br>
 - San Jose State University Alumni
 <br>
+<br>
 
 <h2>💻 Cybersecurity Projects:</h2>
 
