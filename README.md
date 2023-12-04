@@ -7,23 +7,9 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-- <b>Packet Sniffing</b>
-  - [Creating ncap in Wireshark](https://github.com/)
-  - [OSI Model in Wireshark](https://github.com/)
-- <b>Reconnaissance</b>
-  - [Scan and Exploit WAN using Nmap, Zenmap, and Metasploit](https://github.com/)
-- <b>Remote Access</b>
-  - [Remote Access with RDP](https://github.com/)
-- <b>Exploit Simulation</b>
-  - [Windows file and print sharing vulnerability with Metasploit](https://github.com/)
-  - [DarkComet Remote Access Trojan](https://github.com/)
-- <b>Forensics</b>
-  - [Autopsy](https://github.com/)
-  - [Investigating a pcap](https://github.com/)
-  - [Log Analysis in Splunk](https://github.com/)
-  - [Using hash functions to validate data integrity](https://github.com/)
-- <b>Python</b>
-  - [Extracting and cleaning data](https://github.com/)
+- <b>Security Awareness</b>
+  - [Phishing Simulation: Mastercard](https://github.com/)
+
 <br>
 <h2>📝 Writeups</h2>
 
