@@ -8,7 +8,7 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Security Awareness</b>
-  - [Phishing Simulation: Mastercard](https://github.com/)
+  - <a href="https://github.com/tendeedo/tendeedo/blob/main/phishing-simulation-mastercard.pdf">[Phishing Simulation: Mastercard]</a>
 
 <br>
 <h2>📝 Writeups</h2>
