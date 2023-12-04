@@ -6,11 +6,13 @@
 <br>
 
 <h2>💻 Cybersecurity Projects:</h2>
-<br>
+
 - <b>Security Awareness</b>
   - [Phishing Simulation: Mastercard](https://github.com/)
+
 <br>
 <h2>📝 Writeups</h2>
+
 - <a href="https://github.com/tendeedo/cldap">DDoS Tools: CLDAP</a>
 - <a href="https://github.com/tendeedo/cldap">Trojan Ghimob</a>
 - <a href="https://github.com/tendeedo/cldap">Comparison of Strategies for Improving SOC Operations</a>
