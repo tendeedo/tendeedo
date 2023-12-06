@@ -7,6 +7,9 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
+- <b>Penetration Testing</b>
+  - <a href="https://github.com/tendeedo/artemis-penetration-testing">[Blackbox Penetration Test: Artemis Gas]</a>
+
 - <b>Security Awareness</b>
   - <a href="https://github.com/tendeedo/tendeedo/blob/main/phishing-simulation-mastercard.pdf">[Phishing Simulation: Mastercard]</a>
 
