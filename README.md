@@ -4,6 +4,7 @@
 - Successfully implemented a security awareness program and --- <br>
 - Eager to leverage cybersecurity knowledge and passion for technology to make substantial contributions to information security strategies as a Security Analyst.
 <br>
+<h4></h4><a href="https://github.com/tendeedo/artemis-penetration-testing">[My Resume]</a>
 <br>
 
 <h2>💻 Cybersecurity Projects:</h2>
@@ -31,3 +32,4 @@
 
 [youtube]: https://www.youtube.com/
 [linkedin]: https://linkedin.com/
+<br>
