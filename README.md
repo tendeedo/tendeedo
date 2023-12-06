@@ -1,7 +1,8 @@
 <h1>Hi, I'm Nathan!</h1>
-- I'm a certified Cybersecurity professional<br>
-- Springboard Cybersecurity Career Track Bootcamp Alumni <br>
-- San Jose State University Alumni
+- Certified IT professional with strong enthusiasm for innovative technologies, and proficient in desktop support, network security, penetration testing, and risk assessments.<br>
+- 5+ years of  experience in hospitality operations,  adept in critical analysis, risk assessment, and strategic problem solving. <br>
+- Successfully implemented a security awareness program and --- <br>
+- Eager to leverage cybersecurity knowledge and passion for technology to make substantial contributions to information security strategies as a Security Analyst.
 <br>
 <br>
 
