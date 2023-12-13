@@ -10,10 +10,13 @@
 <h2>💻 Cybersecurity Projects:</h2>
 
 - <b>Penetration Testing</b>
-  - <a href="https://github.com/tendeedo/artemis-penetration-testing">[Blackbox Penetration Test: Artemis Gas]</a>
-
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">[Penetration Test: Utility Provider]</a>
+  
+- <b>Se</b>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">[Security Assessment: Hotel]</a>
+  
 - <b>Security Awareness</b>
-  - <a href="https://github.com/tendeedo/tendeedo/blob/main/phishing-simulation-mastercard.pdf">[Phishing Simulation: Mastercard]</a>
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">[Phishing Simulation: Payment Processer Company]</a>
 
 <br>
 <h2>📝 Writeups</h2>
