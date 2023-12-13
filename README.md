@@ -12,7 +12,7 @@
 - <b>Penetration Testing</b>
   - <a href="https://github.com/tendeedo/penetration-test-utility-provider">[Penetration Test: Utility Provider]</a>
   
-- <b>Se</b>
+- <b>Risk and Security</b>
   - <a href="https://github.com/tendeedo/security-assessment-hotel">[Security Assessment: Hotel]</a>
   
 - <b>Security Awareness</b>
