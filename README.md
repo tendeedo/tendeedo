@@ -9,10 +9,17 @@
 
 <h2>💻 Cybersecurity Projects:</h2>
 
-  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">[Penetration Test: Utility Provider]</a>
-  - <a href="https://github.com/tendeedo/security-assessment-hotel">[Security Assessment: Hotel]</a>
-  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">[Phishing Simulation: Payment Processer Company]</a>
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">Penetration Test: [Utility Provider]</a>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">Security Assessment: [Hotel]</a>
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">Phishing Simulation: [Payment Processer Company]</a>
 
+<br>
+<h2>⚙️ IT Projects:</h2>
+
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">DirectKey BLE Implementation Project</a>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">Hotel Workstation Virtualization</a>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">Temporary VPN to enable Secured Remote Working</a>
+  
 <br>
 <h2>📝 Writeups</h2>
 
