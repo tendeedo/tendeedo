@@ -16,9 +16,9 @@
 <br>
 <h2>⚙️ IT Projects:</h2>
 
-  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">DirectKey BLE Implementation Project</a>
-  - <a href="https://github.com/tendeedo/security-assessment-hotel">Hotel Workstation Virtualization</a>
-  - <a href="https://github.com/tendeedo/security-assessment-hotel">Temporary VPN to enable Secured Remote Working</a>
+  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">DirectKey BLE Implementation (2023)</a>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">Hotel Workstation Virtualization (2023)</a>
+  - <a href="https://github.com/tendeedo/security-assessment-hotel">Temporary VPN to enable Secured Remote Working (2019 - 2020)</a>
   
 <br>
 <h2>📝 Writeups</h2>
