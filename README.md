@@ -45,7 +45,8 @@
 - <a href="https://github.com/tendeedo/cldap">Day 10: SQL Injection: Inject the Halls with EXEC Queries</a>
 - <a href="https://github.com/tendeedo/cldap">Day 11: Active Directory: Jingle Bells, Shadow Spells</a>
 - <a href="https://github.com/tendeedo/cldap">Day 12: Defense in Depth: Sleighing Threats, One Layer at a Time</a>
-
+- <a href="https://github.com/tendeedo/cldap">Day 13: Intrusion Detection: To the Pots, Through the Walls</a>
+- <a href="https://github.com/tendeedo/cldap">Day 14: Machine Learning; The Little Machine That Wanted to Learn</a>
 <br>
 <h2> 📱 Connect with me</h2>
 
