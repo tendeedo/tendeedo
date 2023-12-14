@@ -11,7 +11,7 @@
 
   - <a href="https://github.com/tendeedo/penetration-test-utility-provider">Penetration Test: [Utility Provider]</a>
   - <a href="https://github.com/tendeedo/security-assessment-hotel">Security Assessment: [Hotel]</a>
-  - <a href="https://github.com/tendeedo/penetration-test-utility-provider">Phishing Simulation: [Payment Processer Company]</a>
+  - <a href="https://github.com/tendeedo/phishing-simulation/tree/main">Phishing Simulation: [Payment Processer Company]</a>
 
 <br>
 <h2>⚙️ IT Projects:</h2>
