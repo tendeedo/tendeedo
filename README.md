@@ -34,7 +34,7 @@
 <h2>🎄 Advent of Cyber 2023 (TryHackMe)</h2>
 
 - <a href="https://github.com/tendeedo/advent-of-cyber/blob/main/Day%201_Machine%20Learning.pdf">Day 1: Machine Learning: Chatbot, tell me, if you're really safe?</a>
-- <a href="https://github.com/tendeedo/cldap">Day 2: Log Analysis: O Data, All Ye Faithful</a>
+- <a href="https://github.com/tendeedo/advent-of-cyber/blob/main/Day%202_%20Log%20Analysis.pdf">Day 2: Log Analysis: O Data, All Ye Faithful</a>
 - <a href="https://github.com/tendeedo/cldap">Day 3: Brute-forcing: Hydra is Coming to Town</a>
 - <a href="https://github.com/tendeedo/cldap">Day 4: Brute-forcing: Baby, it's CeWLd outside</a>
 - <a href="https://github.com/tendeedo/cldap">Day 5: Reverse Engineering: A Christmas DOScovery: Tapes of Yule-tide Past</a>
