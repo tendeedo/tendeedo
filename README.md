@@ -1,6 +1,6 @@
 <h1>Nathan Tendido</h1>
 
-<h2>👨🏽 About Me</h2>
+<h2>About</h2>
 
   - Certified IT professional with strong enthusiasm for innovative technologies, and proficient in desktop support, network security, penetration testing, and risk assessments.<br>
   - 5+ years of experience in hospitality operations, adept in critical analysis, risk assessment, and strategic problem solving. <br>
