@@ -1,10 +1,9 @@
-<h1>Hi, I'm Nathan!</h1>
+<h1>Nathan Tendido</h1>
 - Certified IT professional with strong enthusiasm for innovative technologies, and proficient in desktop support, network security, penetration testing, and risk assessments.<br>
-- 5+ years of  experience in hospitality operations,  adept in critical analysis, risk assessment, and strategic problem solving. <br>
-- Successfully implemented a security awareness program and --- <br>
-- Eager to leverage cybersecurity knowledge and passion for technology to make substantial contributions to information security strategies as a Security Analyst.
+- 5+ years of experience in hospitality operations, adept in critical analysis, risk assessment, and strategic problem solving. <br>
+- Successful record of leveraging operations skills in IT and cybersecurity projects, such as installation of bluetooth cardless hotel locks, installation of virtualized environments, and phishing simulations. <br>
 <br>
-<h3>👋<a href="https://github.com/tendeedo/artemis-penetration-testing">[My Resume]</a></h3>
+<h4>👋<a href="https://github.com/tendeedo/artemis-penetration-testing">[My Resume]</a></h4>
 <br>
 
 <h2>💻 Cybersecurity Projects</h2>
@@ -54,5 +53,5 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/nathantendido/
 <br>
