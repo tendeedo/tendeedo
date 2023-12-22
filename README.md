@@ -1,10 +1,10 @@
-<h1>Nathan Tendido</h1>
-- Certified IT professional with strong enthusiasm for innovative technologies, and proficient in desktop support, network security, penetration testing, and risk assessments.<br>
-- 5+ years of experience in hospitality operations, adept in critical analysis, risk assessment, and strategic problem solving. <br>
-- Successful record of leveraging operations skills in IT and cybersecurity projects, such as installation of bluetooth cardless hotel locks, installation of virtualized environments, and phishing simulations. <br>
-<br>
-<h4>👋<a href="https://github.com/tendeedo/artemis-penetration-testing">[My Resume]</a></h4>
-<br>
+<h2>Nathan Tendido</h2>
+
+  - Certified IT professional with strong enthusiasm for innovative technologies, and proficient in desktop support, network security, penetration testing, and risk assessments.<br>
+  - 5+ years of experience in hospitality operations, adept in critical analysis, risk assessment, and strategic problem solving. <br>
+  - Successful record of leveraging operations skills in IT and cybersecurity projects, such as installation of bluetooth cardless hotel locks, installation of virtualized environments, and phishing simulations. <br>
+  
+<h3>👋<a href="https://github.com/tendeedo/artemis-penetration-testing">[My Resume]</a></h3>
 
 <h2>💻 Cybersecurity Projects</h2>
 
