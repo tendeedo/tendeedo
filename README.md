@@ -1,6 +1,6 @@
 <h1>Nathan Tendido</h1>
 
-<h2>About</h2>
+<h2>About Me</h2>
 
 As a certified IT professional with a passion for innovative technologies, I bring over 5 years of experience in hospitality operations and a solid foundation in desktop support, network security, penetration testing, and risk assessments. My journey in the cybersecurity realm has been marked by notable achievements, including the implementation of a business VPN to enable secure remote working and the successful launch of a hotel security awareness program. 
 
