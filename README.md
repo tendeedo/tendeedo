@@ -11,13 +11,8 @@ In addition to my technical prowess, I have a proven track record in operations 
 I thrive on independent research, evident in my cybersecurity projects such as a penetration test for a utility provider, a security assessment for a hotel, and an email phishing simulation for a payment processor. My commitment to making impactful contributions to information security strategies is underscored by my hands-on experience and dedication to staying at the forefront of cybersecurity trends.
 
 
-
-
-
-
-
   
-<h3>👋<a href="https://docs.google.com/document/d/1qsG00IOJFYDwSlExfomRaKXVtER9wYhjAFFXMY5Hbhk/edit?usp=sharing">[My Resume]</a></h3>
+<h3>👋<a href="https://docs.google.com/document/d/1aE1m5YRqhbx3ugHitytdH1ZBpLCab6K8MfGfwACUkr8/edit?usp=sharing">[My Resume]</a></h3>
 
 <h2>💻 Cybersecurity Projects</h2>
 
