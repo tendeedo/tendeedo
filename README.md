@@ -2,11 +2,11 @@
 
 <h2>About Me</h2>
 
-As a certified IT professional with a passion for innovative technologies, I bring over 5 years of experience in hospitality operations and a solid foundation in desktop support, network security, penetration testing, and risk assessments. My journey in the cybersecurity realm has been marked by notable achievements, including the implementation of a business VPN to enable secure remote working and the successful launch of a hotel security awareness program. 
+I bring over 5 years of experience in hospitality operations and a solid foundation in desktop support, network security, penetration testing, and risk assessments. My journey in the cybersecurity realm has been marked by notable achievements, including the implementation of a business VPN to enable secure remote working and the successful launch of a hotel security awareness program. 
 
 I hold a Certificate of Completion in Cybersecurity from Springboard, CompTIA Security+, and (ISC)² Certified in Cybersecurity and am on track to obtain the Splunk Core Certified Power User certification.
 
-In addition to my technical prowess, I have a proven track record in operations management, having collaborated with K&K Hotel Group to implement a security awareness program across multiple properties, leading to zero reported incidents and notable improvements in guest satisfaction. 
+In addition to my technical prowess, I have a proven track record in operations management, having collaborated with hotel group executives to implement a security awareness program across multiple properties, leading to zero reported incidents and notable improvements in guest satisfaction. 
 
 I thrive on independent research, evident in my cybersecurity projects such as a penetration test for a utility provider, a security assessment for a hotel, and an email phishing simulation for a payment processor. My commitment to making impactful contributions to information security strategies is underscored by my hands-on experience and dedication to staying at the forefront of cybersecurity trends.
 
